@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
@@ -43,3 +44,11 @@ Use these steps to clone from SourceTree, our client for using the repository co
 4. Open the directory you just created to see your repository’s files.
 
 Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+=======
+# prohouse
+Future of real estate investing
+Our real estate is virtual property you can purchase on a metaverse platform
+
+As new technologies like cryptocurrency develop, the real estate sector is changing drastically. It is important to understand both how these technologies and the traditional real estate market work. Governments are unable to comprehend the rapid advancement of technology and modify their legal frameworks to accommodate it fast enough.
+
+>>>>>>> 794d518c9f1d5b16edf304138e4d2d4705c28b89
